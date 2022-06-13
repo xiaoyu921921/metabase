@@ -2265,7 +2265,7 @@ msgstr "拯救失败。"
 
 #: frontend/src/metabase/components/Calendar.tsx:134
 msgid "Su"
-msgstr "苏"
+msgstr "日"
 
 #: frontend/src/metabase/components/Calendar.tsx:134
 msgid "Mo"
@@ -2273,23 +2273,23 @@ msgstr "一"
 
 #: frontend/src/metabase/components/Calendar.tsx:134
 msgid "Tu"
-msgstr "图"
+msgstr "二"
 
 #: frontend/src/metabase/components/Calendar.tsx:134
 msgid "We"
-msgstr "我们"
+msgstr "三"
 
 #: frontend/src/metabase/components/Calendar.tsx:134
 msgid "Th"
-msgstr "钍"
+msgstr "四"
 
 #: frontend/src/metabase/components/Calendar.tsx:134
 msgid "Fr"
-msgstr "冯"
+msgstr "五"
 
 #: frontend/src/metabase/components/Calendar.tsx:134
 msgid "Sa"
-msgstr "萨"
+msgstr "六"
 
 #: frontend/src/metabase/components/ChannelSetupMessage.jsx:41
 msgid "Your admin's email address"
